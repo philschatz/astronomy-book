@@ -1,0 +1,24 @@
+
+# Dependencies
+markdown:         kramdown
+
+# Permalinks
+#permalink:        pretty
+
+# Setup
+title:            'Astronomy'
+tagline:          'from http://cnx.org/contents/LnN76Opl@8.1 (CC-BY)'
+url:              https://github.com/philschatz/astronomy-book
+origin:           http://cnx.org/contents/LnN76Opl@8.1
+
+author:
+  name:           'Openstax'
+  url:            https://github.com/openstax
+
+paginate:         5
+
+# Custom vars
+version:          8.1
+
+bookviewer:       http://philschatz.com/book-viewer
+

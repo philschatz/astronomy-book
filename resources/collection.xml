@@ -18,14 +18,14 @@
        Changes to the metadata section in the source will not be saved. -->
 
   <md:repository>https://legacy.cnx.org/content</md:repository>
-  <md:content-url>https://legacy.cnx.org/content/col11992/1.9</md:content-url>
+  <md:content-url>https://legacy.cnx.org/content/col11992/1.10</md:content-url>
   <md:content-id>col11992</md:content-id>
   <md:title>Astronomy</md:title>
   
   
-  <md:version>1.9</md:version>
+  <md:version>1.10</md:version>
   <md:created>2016/02/04 16:07:50.333 US/Central</md:created>
-  <md:revised>2016/10/17 10:02:47.597 GMT-5</md:revised>
+  <md:revised>2016/11/02 12:43:04.462 GMT-5</md:revised>
 
   <md:actors>
     
@@ -108,9 +108,9 @@
   
   <col:content>
     
-      <col:module document="m62004" version="latest"
+      <col:module document="m63293" version="latest"
                   repository="https://legacy.cnx.org/content"
-                  cnxorg:version-at-this-collection-version="1.2">
+                  cnxorg:version-at-this-collection-version="1.1">
         <md:title>Preface</md:title>
         
         
@@ -2539,7 +2539,7 @@
     
       <col:module document="m59972" version="latest"
                   repository="https://legacy.cnx.org/content"
-                  cnxorg:version-at-this-collection-version="1.3">
+                  cnxorg:version-at-this-collection-version="1.4">
         <md:title>The Distribution of Galaxies in Space</md:title>
         
         
@@ -2747,7 +2747,7 @@
     
       <col:module document="m59993" version="latest"
                   repository="https://legacy.cnx.org/content"
-                  cnxorg:version-at-this-collection-version="1.4">
+                  cnxorg:version-at-this-collection-version="1.5">
         <md:title>The Search for Extraterrestrial Intelligence</md:title>
         
         

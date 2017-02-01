@@ -17,8 +17,8 @@
   <!-- WARNING! The 'metadata' section is read only. Do not edit below.
        Changes to the metadata section in the source will not be saved. -->
 
-  <md:repository>https://legacy.cnx.org/content</md:repository>
-  <md:content-url>https://legacy.cnx.org/content/col11992/1.10</md:content-url>
+  <md:repository>http://legacy.cnx.org/content</md:repository>
+  <md:content-url>http://legacy.cnx.org/content/col11992/1.10</md:content-url>
   <md:content-id>col11992</md:content-id>
   <md:title>Astronomy</md:title>
   
@@ -109,7 +109,7 @@
   <col:content>
     
       <col:module document="m63293" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.1">
         <md:title>Preface</md:title>
         
@@ -132,7 +132,7 @@
           
     
       <col:module document="m59743" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Introduction</md:title>
         
@@ -144,7 +144,7 @@
     
     
       <col:module document="m59747" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>The Nature of Astronomy</md:title>
         
@@ -156,7 +156,7 @@
     
     
       <col:module document="m59755" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>The Nature of Science</md:title>
         
@@ -168,7 +168,7 @@
     
     
       <col:module document="m59750" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>The Laws of Nature</md:title>
         
@@ -180,7 +180,7 @@
     
     
       <col:module document="m59751" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Numbers in Astronomy</md:title>
         
@@ -192,7 +192,7 @@
     
     
       <col:module document="m59752" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Consequences of Light Travel Time</md:title>
         
@@ -204,7 +204,7 @@
     
     
       <col:module document="m59753" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>A Tour of the Universe</md:title>
         
@@ -216,7 +216,7 @@
     
     
       <col:module document="m59754" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>The Universe on the Large Scale</md:title>
         
@@ -228,7 +228,7 @@
     
     
       <col:module document="m59760" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>The Universe of the Very Small</md:title>
         
@@ -240,7 +240,7 @@
     
     
       <col:module document="m59762" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>A Conclusion and a Beginning</md:title>
         
@@ -266,7 +266,7 @@
           
     
       <col:module document="m59769" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Thinking Ahead</md:title>
         
@@ -278,7 +278,7 @@
     
     
       <col:module document="m59770" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Sky Above</md:title>
         
@@ -290,7 +290,7 @@
     
     
       <col:module document="m59763" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Ancient Astronomy</md:title>
         
@@ -302,7 +302,7 @@
     
     
       <col:module document="m59772" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Astrology and Astronomy</md:title>
         
@@ -314,7 +314,7 @@
     
     
       <col:module document="m59765" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Birth of Modern Astronomy</md:title>
         
@@ -340,7 +340,7 @@
           
     
       <col:module document="m59773" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Thinking Ahead</md:title>
         
@@ -352,7 +352,7 @@
     
     
       <col:module document="m59775" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Laws of Planetary Motion</md:title>
         
@@ -364,7 +364,7 @@
     
     
       <col:module document="m59776" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Newton’s Great Synthesis</md:title>
         
@@ -376,7 +376,7 @@
     
     
       <col:module document="m59777" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Newton’s Universal Law of Gravitation</md:title>
         
@@ -388,7 +388,7 @@
     
     
       <col:module document="m59778" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Orbits in the Solar System</md:title>
         
@@ -400,7 +400,7 @@
     
     
       <col:module document="m59779" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Motions of Satellites and Spacecraft</md:title>
         
@@ -412,7 +412,7 @@
     
     
       <col:module document="m59780" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Gravity with More Than Two Bodies</md:title>
         
@@ -438,7 +438,7 @@
           
     
       <col:module document="m59781" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Thinking Ahead</md:title>
         
@@ -450,7 +450,7 @@
     
     
       <col:module document="m59783" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Earth and Sky</md:title>
         
@@ -462,7 +462,7 @@
     
     
       <col:module document="m59785" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Seasons</md:title>
         
@@ -474,7 +474,7 @@
     
     
       <col:module document="m59786" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Keeping Time</md:title>
         
@@ -486,7 +486,7 @@
     
     
       <col:module document="m59787" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Calendar</md:title>
         
@@ -498,7 +498,7 @@
     
     
       <col:module document="m59788" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Phases and Motions of the Moon</md:title>
         
@@ -510,7 +510,7 @@
     
     
       <col:module document="m59789" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Ocean Tides and the Moon</md:title>
         
@@ -522,7 +522,7 @@
     
     
       <col:module document="m59790" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Eclipses of the Sun and Moon</md:title>
         
@@ -548,7 +548,7 @@
           
     
       <col:module document="m59791" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Thinking Ahead</md:title>
         
@@ -560,7 +560,7 @@
     
     
       <col:module document="m59792" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Behavior of Light</md:title>
         
@@ -572,7 +572,7 @@
     
     
       <col:module document="m59798" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>The Electromagnetic Spectrum</md:title>
         
@@ -584,7 +584,7 @@
     
     
       <col:module document="m59793" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Spectroscopy in Astronomy</md:title>
         
@@ -596,7 +596,7 @@
     
     
       <col:module document="m59794" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Structure of the Atom</md:title>
         
@@ -608,7 +608,7 @@
     
     
       <col:module document="m59795" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Formation of Spectral Lines</md:title>
         
@@ -620,7 +620,7 @@
     
     
       <col:module document="m59799" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Doppler Effect</md:title>
         
@@ -646,7 +646,7 @@
           
     
       <col:module document="m59802" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Thinking Ahead</md:title>
         
@@ -658,7 +658,7 @@
     
     
       <col:module document="m59803" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Telescopes</md:title>
         
@@ -670,7 +670,7 @@
     
     
       <col:module document="m59805" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Telescopes Today</md:title>
         
@@ -682,7 +682,7 @@
     
     
       <col:module document="m59821" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Visible-Light Detectors and Instruments</md:title>
         
@@ -694,7 +694,7 @@
     
     
       <col:module document="m59809" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Radio Telescopes</md:title>
         
@@ -706,7 +706,7 @@
     
     
       <col:module document="m59811" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Observations outside Earth’s Atmosphere</md:title>
         
@@ -718,7 +718,7 @@
     
     
       <col:module document="m59812" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Future of Large Telescopes</md:title>
         
@@ -744,7 +744,7 @@
           
     
       <col:module document="m59814" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Thinking Ahead</md:title>
         
@@ -756,7 +756,7 @@
     
     
       <col:module document="m59816" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Overview of Our Planetary System</md:title>
         
@@ -768,7 +768,7 @@
     
     
       <col:module document="m59819" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Composition and Structure of Planets</md:title>
         
@@ -780,7 +780,7 @@
     
     
       <col:module document="m59820" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Dating Planetary Surfaces</md:title>
         
@@ -792,7 +792,7 @@
     
     
       <col:module document="m59823" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Origin of the Solar System</md:title>
         
@@ -818,7 +818,7 @@
           
     
       <col:module document="m59824" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Thinking Ahead</md:title>
         
@@ -830,7 +830,7 @@
     
     
       <col:module document="m59825" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Global Perspective</md:title>
         
@@ -842,7 +842,7 @@
     
     
       <col:module document="m59826" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Earth’s Crust</md:title>
         
@@ -854,7 +854,7 @@
     
     
       <col:module document="m59827" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Earth’s Atmosphere</md:title>
         
@@ -866,7 +866,7 @@
     
     
       <col:module document="m59828" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Life, Chemical Evolution, and Climate Change</md:title>
         
@@ -878,7 +878,7 @@
     
     
       <col:module document="m59829" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Cosmic Influences on the Evolution of Earth</md:title>
         
@@ -904,7 +904,7 @@
           
     
       <col:module document="m59830" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Thinking Ahead</md:title>
         
@@ -916,7 +916,7 @@
     
     
       <col:module document="m59831" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>General Properties of the Moon</md:title>
         
@@ -928,7 +928,7 @@
     
     
       <col:module document="m59832" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Lunar Surface</md:title>
         
@@ -940,7 +940,7 @@
     
     
       <col:module document="m59833" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Impact Craters</md:title>
         
@@ -952,7 +952,7 @@
     
     
       <col:module document="m59834" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Origin of the Moon</md:title>
         
@@ -964,7 +964,7 @@
     
     
       <col:module document="m59835" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Mercury</md:title>
         
@@ -990,7 +990,7 @@
           
     
       <col:module document="m59836" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Thinking Ahead</md:title>
         
@@ -1002,7 +1002,7 @@
     
     
       <col:module document="m59845" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Nearest Planets: An Overview</md:title>
         
@@ -1014,7 +1014,7 @@
     
     
       <col:module document="m59838" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Geology of Venus</md:title>
         
@@ -1026,7 +1026,7 @@
     
     
       <col:module document="m59840" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Massive Atmosphere of Venus</md:title>
         
@@ -1038,7 +1038,7 @@
     
     
       <col:module document="m59843" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Geology of Mars</md:title>
         
@@ -1050,7 +1050,7 @@
     
     
       <col:module document="m59856" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Water and Life on Mars</md:title>
         
@@ -1062,7 +1062,7 @@
     
     
       <col:module document="m59847" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Divergent Planetary Evolution</md:title>
         
@@ -1088,7 +1088,7 @@
           
     
       <col:module document="m59850" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Thinking Ahead</md:title>
         
@@ -1100,7 +1100,7 @@
     
     
       <col:module document="m59853" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Exploring the Outer Planets</md:title>
         
@@ -1112,7 +1112,7 @@
     
     
       <col:module document="m59858" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Giant Planets</md:title>
         
@@ -1124,7 +1124,7 @@
     
     
       <col:module document="m59859" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Atmospheres of the Giant Planets</md:title>
         
@@ -1150,7 +1150,7 @@
           
     
       <col:module document="m59860" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Thinking Ahead</md:title>
         
@@ -1162,7 +1162,7 @@
     
     
       <col:module document="m59861" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Ring and Moon Systems Introduced</md:title>
         
@@ -1174,7 +1174,7 @@
     
     
       <col:module document="m59862" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Galilean Moons of Jupiter</md:title>
         
@@ -1186,7 +1186,7 @@
     
     
       <col:module document="m59863" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Titan and Triton</md:title>
         
@@ -1198,7 +1198,7 @@
     
     
       <col:module document="m59864" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Pluto and Charon</md:title>
         
@@ -1210,7 +1210,7 @@
     
     
       <col:module document="m62178" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Planetary Rings</md:title>
         
@@ -1236,7 +1236,7 @@
           
     
       <col:module document="m59865" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Thinking Ahead</md:title>
         
@@ -1248,7 +1248,7 @@
     
     
       <col:module document="m59866" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Asteroids</md:title>
         
@@ -1260,7 +1260,7 @@
     
     
       <col:module document="m59867" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Asteroids and Planetary Defense</md:title>
         
@@ -1272,7 +1272,7 @@
     
     
       <col:module document="m59868" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The “Long-Haired” Comets</md:title>
         
@@ -1284,7 +1284,7 @@
     
     
       <col:module document="m59869" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Origin and Fate of Comets and Related Objects</md:title>
         
@@ -1310,7 +1310,7 @@
           
     
       <col:module document="m59870" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Thinking Ahead</md:title>
         
@@ -1322,7 +1322,7 @@
     
     
       <col:module document="m59871" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Meteors</md:title>
         
@@ -1334,7 +1334,7 @@
     
     
       <col:module document="m59872" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Meteorites: Stones from Heaven</md:title>
         
@@ -1346,7 +1346,7 @@
     
     
       <col:module document="m59873" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Formation of the Solar System</md:title>
         
@@ -1358,7 +1358,7 @@
     
     
       <col:module document="m59874" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Comparison with Other Planetary Systems</md:title>
         
@@ -1370,7 +1370,7 @@
     
     
       <col:module document="m59875" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Planetary Evolution</md:title>
         
@@ -1396,7 +1396,7 @@
           
     
       <col:module document="m59876" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Thinking Ahead</md:title>
         
@@ -1408,7 +1408,7 @@
     
     
       <col:module document="m59877" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>The Structure and Composition of the Sun</md:title>
         
@@ -1420,7 +1420,7 @@
     
     
       <col:module document="m59878" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Solar Cycle</md:title>
         
@@ -1432,7 +1432,7 @@
     
     
       <col:module document="m59879" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Solar Activity above the Photosphere</md:title>
         
@@ -1444,7 +1444,7 @@
     
     
       <col:module document="m59884" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Space Weather</md:title>
         
@@ -1470,7 +1470,7 @@
           
     
       <col:module document="m59880" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Thinking Ahead</md:title>
         
@@ -1482,7 +1482,7 @@
     
     
       <col:module document="m59895" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Sources of Sunshine: Thermal and Gravitational Energy</md:title>
         
@@ -1494,7 +1494,7 @@
     
     
       <col:module document="m59886" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Mass, Energy, and the Theory of Relativity</md:title>
         
@@ -1506,7 +1506,7 @@
     
     
       <col:module document="m59887" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Solar Interior: Theory</md:title>
         
@@ -1518,7 +1518,7 @@
     
     
       <col:module document="m59888" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Solar Interior: Observations</md:title>
         
@@ -1544,7 +1544,7 @@
           
     
       <col:module document="m59889" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Thinking Ahead</md:title>
         
@@ -1556,7 +1556,7 @@
     
     
       <col:module document="m59890" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Brightness of Stars</md:title>
         
@@ -1568,7 +1568,7 @@
     
     
       <col:module document="m59891" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Colors of Stars</md:title>
         
@@ -1580,7 +1580,7 @@
     
     
       <col:module document="m59892" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Spectra of Stars (and Brown Dwarfs)</md:title>
         
@@ -1592,7 +1592,7 @@
     
     
       <col:module document="m59896" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Using Spectra to Measure Stellar Radius, Composition, and Motion</md:title>
         
@@ -1618,7 +1618,7 @@
           
     
       <col:module document="m59897" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Thinking Ahead</md:title>
         
@@ -1630,7 +1630,7 @@
     
     
       <col:module document="m59898" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>A Stellar Census</md:title>
         
@@ -1642,7 +1642,7 @@
     
     
       <col:module document="m59899" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Measuring Stellar Masses</md:title>
         
@@ -1654,7 +1654,7 @@
     
     
       <col:module document="m59900" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Diameters of Stars</md:title>
         
@@ -1666,7 +1666,7 @@
     
     
       <col:module document="m59901" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>The H–R Diagram</md:title>
         
@@ -1692,7 +1692,7 @@
           
     
       <col:module document="m59902" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Thinking Ahead</md:title>
         
@@ -1704,7 +1704,7 @@
     
     
       <col:module document="m59904" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Fundamental Units of Distance</md:title>
         
@@ -1716,7 +1716,7 @@
     
     
       <col:module document="m59905" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Surveying the Stars</md:title>
         
@@ -1728,7 +1728,7 @@
     
     
       <col:module document="m59906" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Variable Stars: One Key to Cosmic Distances</md:title>
         
@@ -1740,7 +1740,7 @@
     
     
       <col:module document="m59907" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The H–R Diagram and Cosmic Distances</md:title>
         
@@ -1766,7 +1766,7 @@
           
     
       <col:module document="m59908" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Thinking Ahead</md:title>
         
@@ -1778,7 +1778,7 @@
     
     
       <col:module document="m59909" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Interstellar Medium</md:title>
         
@@ -1790,7 +1790,7 @@
     
     
       <col:module document="m59910" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Interstellar Gas</md:title>
         
@@ -1802,7 +1802,7 @@
     
     
       <col:module document="m59911" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Cosmic Dust</md:title>
         
@@ -1814,7 +1814,7 @@
     
     
       <col:module document="m59912" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Cosmic Rays</md:title>
         
@@ -1826,7 +1826,7 @@
     
     
       <col:module document="m59913" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Life Cycle of Cosmic Material</md:title>
         
@@ -1838,7 +1838,7 @@
     
     
       <col:module document="m59914" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Interstellar Matter around the Sun</md:title>
         
@@ -1864,7 +1864,7 @@
           
     
       <col:module document="m59915" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Thinking Ahead</md:title>
         
@@ -1876,7 +1876,7 @@
     
     
       <col:module document="m59923" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Star Formation</md:title>
         
@@ -1888,7 +1888,7 @@
     
     
       <col:module document="m59918" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>The H–R Diagram and the Study of Stellar Evolution</md:title>
         
@@ -1900,7 +1900,7 @@
     
     
       <col:module document="m59920" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Evidence That Planets Form around Other Stars</md:title>
         
@@ -1912,7 +1912,7 @@
     
     
       <col:module document="m59921" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Planets beyond the Solar System: Search and Discovery</md:title>
         
@@ -1924,7 +1924,7 @@
     
     
       <col:module document="m62183" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Exoplanets Everywhere: What We Are Learning</md:title>
         
@@ -1936,7 +1936,7 @@
     
     
       <col:module document="m62187" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>New Perspectives on Planet Formation</md:title>
         
@@ -1962,7 +1962,7 @@
           
     
       <col:module document="m59924" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Thinking Ahead</md:title>
         
@@ -1974,7 +1974,7 @@
     
     
       <col:module document="m59925" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Evolution from the Main Sequence to Red Giants</md:title>
         
@@ -1986,7 +1986,7 @@
     
     
       <col:module document="m59926" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Star Clusters</md:title>
         
@@ -1998,7 +1998,7 @@
     
     
       <col:module document="m59927" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Checking Out the Theory</md:title>
         
@@ -2010,7 +2010,7 @@
     
     
       <col:module document="m59928" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Further Evolution of Stars</md:title>
         
@@ -2022,7 +2022,7 @@
     
     
       <col:module document="m59930" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.2">
         <md:title>The Evolution of More Massive Stars</md:title>
         
@@ -2048,7 +2048,7 @@
           
     
       <col:module document="m59931" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Thinking Ahead</md:title>
         
@@ -2060,7 +2060,7 @@
     
     
       <col:module document="m59932" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Death of Low-Mass Stars</md:title>
         
@@ -2072,7 +2072,7 @@
     
     
       <col:module document="m59933" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Evolution of Massive Stars: An Explosive Finish</md:title>
         
@@ -2084,7 +2084,7 @@
     
     
       <col:module document="m59934" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Supernova Observations</md:title>
         
@@ -2096,7 +2096,7 @@
     
     
       <col:module document="m59935" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Pulsars and the Discovery of Neutron Stars</md:title>
         
@@ -2108,7 +2108,7 @@
     
     
       <col:module document="m59936" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Evolution of Binary Star Systems</md:title>
         
@@ -2120,7 +2120,7 @@
     
     
       <col:module document="m59937" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>The Mystery of the Gamma-Ray Bursts</md:title>
         
@@ -2146,7 +2146,7 @@
           
     
       <col:module document="m59938" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Thinking Ahead</md:title>
         
@@ -2158,7 +2158,7 @@
     
     
       <col:module document="m59939" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Introducing General Relativity</md:title>
         
@@ -2170,7 +2170,7 @@
     
     
       <col:module document="m59940" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Spacetime and Gravity</md:title>
         
@@ -2182,7 +2182,7 @@
     
     
       <col:module document="m59941" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Tests of General Relativity</md:title>
         
@@ -2194,7 +2194,7 @@
     
     
       <col:module document="m59942" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Time in General Relativity</md:title>
         
@@ -2206,7 +2206,7 @@
     
     
       <col:module document="m59943" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Black Holes</md:title>
         
@@ -2218,7 +2218,7 @@
     
     
       <col:module document="m59944" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Evidence for Black Holes</md:title>
         
@@ -2230,7 +2230,7 @@
     
     
       <col:module document="m59945" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Gravitational Wave Astronomy</md:title>
         
@@ -2256,7 +2256,7 @@
           
     
       <col:module document="m59947" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Thinking Ahead</md:title>
         
@@ -2268,7 +2268,7 @@
     
     
       <col:module document="m59948" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Architecture of the Galaxy</md:title>
         
@@ -2280,7 +2280,7 @@
     
     
       <col:module document="m59954" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Spiral Structure</md:title>
         
@@ -2292,7 +2292,7 @@
     
     
       <col:module document="m59950" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Mass of the Galaxy</md:title>
         
@@ -2304,7 +2304,7 @@
     
     
       <col:module document="m59951" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Center of the Galaxy</md:title>
         
@@ -2316,7 +2316,7 @@
     
     
       <col:module document="m59952" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Stellar Populations in the Galaxy</md:title>
         
@@ -2328,7 +2328,7 @@
     
     
       <col:module document="m59955" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Formation of the Galaxy</md:title>
         
@@ -2354,7 +2354,7 @@
           
     
       <col:module document="m59956" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Thinking Ahead</md:title>
         
@@ -2366,7 +2366,7 @@
     
     
       <col:module document="m59964" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Discovery of Galaxies</md:title>
         
@@ -2378,7 +2378,7 @@
     
     
       <col:module document="m59958" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Types of Galaxies</md:title>
         
@@ -2390,7 +2390,7 @@
     
     
       <col:module document="m59959" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Properties of Galaxies</md:title>
         
@@ -2402,7 +2402,7 @@
     
     
       <col:module document="m59960" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Extragalactic Distance Scale</md:title>
         
@@ -2414,7 +2414,7 @@
     
     
       <col:module document="m62195" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Expanding Universe</md:title>
         
@@ -2440,7 +2440,7 @@
           
     
       <col:module document="m59961" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Thinking Ahead</md:title>
         
@@ -2452,7 +2452,7 @@
     
     
       <col:module document="m59962" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Quasars</md:title>
         
@@ -2464,7 +2464,7 @@
     
     
       <col:module document="m59965" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Supermassive Black Holes: What Quasars Really Are</md:title>
         
@@ -2476,7 +2476,7 @@
     
     
       <col:module document="m59966" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Quasars as Probes of Evolution in the Universe</md:title>
         
@@ -2502,7 +2502,7 @@
           
     
       <col:module document="m59969" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Thinking Ahead</md:title>
         
@@ -2514,7 +2514,7 @@
     
     
       <col:module document="m59970" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Observations of Distant Galaxies</md:title>
         
@@ -2526,7 +2526,7 @@
     
     
       <col:module document="m59971" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Galaxy Mergers and Active Galactic Nuclei</md:title>
         
@@ -2538,7 +2538,7 @@
     
     
       <col:module document="m59972" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>The Distribution of Galaxies in Space</md:title>
         
@@ -2550,7 +2550,7 @@
     
     
       <col:module document="m59973" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Challenge of Dark Matter</md:title>
         
@@ -2562,7 +2562,7 @@
     
     
       <col:module document="m59974" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>The Formation and Evolution of Galaxies and Structure in the Universe</md:title>
         
@@ -2588,7 +2588,7 @@
           
     
       <col:module document="m59975" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Thinking Ahead</md:title>
         
@@ -2600,7 +2600,7 @@
     
     
       <col:module document="m59976" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Age of the Universe</md:title>
         
@@ -2612,7 +2612,7 @@
     
     
       <col:module document="m59977" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>A Model of the Universe</md:title>
         
@@ -2624,7 +2624,7 @@
     
     
       <col:module document="m59978" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>The Beginning of the Universe</md:title>
         
@@ -2636,7 +2636,7 @@
     
     
       <col:module document="m59979" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Cosmic Microwave Background</md:title>
         
@@ -2648,7 +2648,7 @@
     
     
       <col:module document="m59980" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>What Is the Universe Really Made Of?</md:title>
         
@@ -2660,7 +2660,7 @@
     
     
       <col:module document="m59981" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Inflationary Universe</md:title>
         
@@ -2672,7 +2672,7 @@
     
     
       <col:module document="m59982" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Anthropic Principle</md:title>
         
@@ -2698,7 +2698,7 @@
           
     
       <col:module document="m59984" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Thinking Ahead</md:title>
         
@@ -2710,7 +2710,7 @@
     
     
       <col:module document="m59988" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Cosmic Context for Life</md:title>
         
@@ -2722,7 +2722,7 @@
     
     
       <col:module document="m59989" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Astrobiology</md:title>
         
@@ -2734,7 +2734,7 @@
     
     
       <col:module document="m59990" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Searching for Life beyond Earth</md:title>
         
@@ -2746,7 +2746,7 @@
     
     
       <col:module document="m59993" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>The Search for Extraterrestrial Intelligence</md:title>
         
@@ -2761,7 +2761,7 @@
     
     
       <col:module document="m59991" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>How to Study for an Introductory Astronomy Class</md:title>
         
@@ -2773,7 +2773,7 @@
     
     
       <col:module document="m59994" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Astronomy Websites, Images, and Apps</md:title>
         
@@ -2785,7 +2785,7 @@
     
     
       <col:module document="m59995" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Scientific Notation</md:title>
         
@@ -2797,7 +2797,7 @@
     
     
       <col:module document="m59996" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Units Used in Science</md:title>
         
@@ -2809,7 +2809,7 @@
     
     
       <col:module document="m59997" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Some Useful Constants for Astronomy</md:title>
         
@@ -2821,7 +2821,7 @@
     
     
       <col:module document="m59998" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Physical and Orbital Data for the Planets</md:title>
         
@@ -2833,7 +2833,7 @@
     
     
       <col:module document="m59999" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.2">
         <md:title>Selected Moons of the Planets</md:title>
         
@@ -2845,7 +2845,7 @@
     
     
       <col:module document="m60000" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Future Total Eclipses</md:title>
         
@@ -2857,7 +2857,7 @@
     
     
       <col:module document="m60002" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Nearest Stars, Brown Dwarfs, and White Dwarfs</md:title>
         
@@ -2869,7 +2869,7 @@
     
     
       <col:module document="m60003" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Brightest Twenty Stars</md:title>
         
@@ -2881,7 +2881,7 @@
     
     
       <col:module document="m60004" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Chemical Elements</md:title>
         
@@ -2893,7 +2893,7 @@
     
     
       <col:module document="m60005" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Constellations</md:title>
         
@@ -2905,7 +2905,7 @@
     
     
       <col:module document="m60006" version="latest"
-                  repository="https://legacy.cnx.org/content"
+                  repository="http://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Star Chart and Sky Event Resources</md:title>
         

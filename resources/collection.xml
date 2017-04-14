@@ -18,14 +18,14 @@
        Changes to the metadata section in the source will not be saved. -->
 
   <md:repository>http://cnx.org/content</md:repository>
-  <md:content-url>http://cnx.org/content/col11992/1.11</md:content-url>
+  <md:content-url>http://cnx.org/content/col11992/1.13</md:content-url>
   <md:content-id>col11992</md:content-id>
   <md:title>Astronomy</md:title>
   
   
-  <md:version>1.11</md:version>
+  <md:version>1.13</md:version>
   <md:created>2016/02/04 16:07:50.333 US/Central</md:created>
-  <md:revised>2017/03/14 10:46:53.174 GMT-5</md:revised>
+  <md:revised>2017/04/12 14:40:39.214 GMT-5</md:revised>
 
   <md:actors>
     
@@ -109,7 +109,7 @@
     
       <col:module document="m63293" version="latest"
                   repository="http://cnx.org/content"
-                  cnxorg:version-at-this-collection-version="1.5">
+                  cnxorg:version-at-this-collection-version="1.6">
         <md:title>Preface</md:title>
         
         

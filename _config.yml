@@ -7,9 +7,9 @@ markdown:         kramdown
 
 # Setup
 title:            'Astronomy'
-tagline:          'from http://cnx.org/contents/LnN76Opl@13.86 (CC-BY)'
+tagline:          'from http://cnx.org/contents/2e737be8-ea65-48c3-aa0a-9f35b4c6a966@13.86 (CC-BY)'
 url:              https://github.com/philschatz/astronomy-book
-origin:           http://cnx.org/contents/LnN76Opl@13.86
+origin:           http://cnx.org/contents/2e737be8-ea65-48c3-aa0a-9f35b4c6a966@13.86
 
 author:
   name:           'Openstax'
